@@ -330,5 +330,5 @@ The resulting system provides a practical framework for monitoring customer sent
 
 Chariy Nduati
 
-Data Science & Machine Learning 
+Data Science & Machine Learning Enthusiast
 
