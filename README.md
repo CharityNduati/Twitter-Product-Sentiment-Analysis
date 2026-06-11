@@ -84,7 +84,7 @@ Several visualizations were created to understand the data before modeling.
 
 The sentiment distribution revealed a clear class imbalance, with neutral tweets dominating the dataset and negative tweets representing the smallest class.
 
-![Sentiment Distribution](distribution of sentiment across target brands.png)
+![Sentiment Distribution](image-2.png)
 
 ### Key Insight
 
@@ -96,7 +96,7 @@ Class imbalance suggested that accuracy alone would not be sufficient for evalua
 
 Sentiment was analyzed across Apple and Google brands.
 
-![Brand Sentiment](sentiment by brand.png)
+![Brand Sentiment](image-3.png)
 
 ### Key Insight
 
@@ -108,7 +108,7 @@ Both brands exhibited similar sentiment trends, with neutral sentiment accountin
 
 TF-IDF preprocessing and word frequency analysis identified common discussion themes.
 
-![Top Words](top most frequent words.png)
+![Top Words](image-4.png)
 
 ### Key Insight
 
@@ -222,7 +222,7 @@ The tuned LinearSVC achieved approximately:
 
 ## Confusion Matrix
 
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](image-5.png)
 
 ### Interpretation
 
