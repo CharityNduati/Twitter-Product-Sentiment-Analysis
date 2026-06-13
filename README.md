@@ -328,7 +328,7 @@ The resulting system provides a practical framework for monitoring customer sent
 
 ## Author
 
-Chariy Nduati
+Charity Nduati
 
 Data Science & Machine Learning Enthusiast
 
